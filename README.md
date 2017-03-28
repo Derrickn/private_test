@@ -1,5 +1,5 @@
 # private_test
 #:-)-public
-<PHP?
+<?PHP
 Echo Tests;
 PHP>
